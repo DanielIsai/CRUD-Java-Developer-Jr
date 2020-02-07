@@ -1,0 +1,13 @@
+[INFO ] 2020-01-21 17:31:26 [restartedMain] DemoSpringKafkaApplication - Starting DemoSpringKafkaApplication on MEXL002074 with PID 13484 (started by DanielIsaiAparicioMa in C:\Users\DanielIsaiAparicioMa\OneDrive - AgileThought\Programs\Eclipse\eclipse-workspace\listenerSpringMongoKafka)
+[DEBUG] 2020-01-21 17:31:26 [restartedMain] DemoSpringKafkaApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+[INFO ] 2020-01-21 17:31:26 [restartedMain] DemoSpringKafkaApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-21 17:31:28 [restartedMain] DemoSpringKafkaApplication - Started DemoSpringKafkaApplication in 1.668 seconds (JVM running for 143.154)
+[INFO ] 2020-01-21 17:31:28 [restartedMain] DemoSpringKafkaApplication - #############################################
+[INFO ] 2020-01-21 17:31:47 [main] DemoSpringKafkaApplication - #############################################
+[INFO ] 2020-01-21 17:31:48 [restartedMain] DemoSpringKafkaApplication - #############################################
+[INFO ] 2020-01-21 17:31:48 [restartedMain] DemoSpringKafkaApplication - Starting DemoSpringKafkaApplication on MEXL002074 with PID 16616 (started by DanielIsaiAparicioMa in C:\Users\DanielIsaiAparicioMa\OneDrive - AgileThought\Programs\Eclipse\eclipse-workspace\listenerSpringMongoKafka)
+[DEBUG] 2020-01-21 17:31:48 [restartedMain] DemoSpringKafkaApplication - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+[INFO ] 2020-01-21 17:31:48 [restartedMain] DemoSpringKafkaApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-01-21 17:31:54 [restartedMain] DemoSpringKafkaApplication - Started DemoSpringKafkaApplication in 6.717 seconds (JVM running for 8.555)
+[INFO ] 2020-01-21 17:31:54 [restartedMain] DemoSpringKafkaApplication - #############################################
+[INFO ] 2020-01-21 17:34:41 [restartedMain] DemoSpringKafkaApplication - #############################################
